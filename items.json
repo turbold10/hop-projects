@@ -1,0 +1,9 @@
+[
+  { "id": "1", "product": "milk", "price": "4000" },
+  { "id": "2", "product": "eggs", "price": "2500" },
+  { "id": "3", "product": "bread", "price": "3000" },
+  { "id": "4", "product": "cheese", "price": "5000" },
+  { "id": "5", "product": "yogurt", "price": "2000" },
+  { "id": "6", "product": "apple", "price": "1000" },
+  { "id": "7", "product": "banana", "price": "3500" }
+]
